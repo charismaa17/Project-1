@@ -1,0 +1,24 @@
+.aboutus{
+    text-align: center;
+    
+    
+}
+.aboutus i {
+    font-size:30px;
+    padding: 25px 25px;
+    
+    /*change the color*/
+    color: #DE2F51;
+    background-color: #C1DBDB;
+   
+    /*resize conatiner of icon*/
+    width: 80px;
+    height: 80px;
+    
+    /*make the conatianer round*/
+    border-radius: 30%
+} 
+.aboutus span {
+    width:200px ;
+    display:inline-block;
+}
